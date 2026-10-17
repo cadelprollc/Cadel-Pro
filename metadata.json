@@ -1,0 +1,6 @@
+{
+  "name": "Sonora - Plataforma de Distribución Musical Digital",
+  "description": "Plataforma SaaS profesional de distribución musical digital con sistema de revisión para administradores, entrega a plataformas y gestión de regalías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
